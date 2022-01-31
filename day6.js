@@ -19,6 +19,16 @@ console.log(sum)
     Create a variable called random and assign to it a random number between 0 and 20 (it should be randomly created at each execution).
 */
 
+let random =3
+let currentNumber=0
+let MaxNumber=20
+if (random=> 20){
+    console.log('you have not exceeded from a number limit which is from 0 to 20 !')
+}
+else{
+    'no sorry you entered the wrong number please try again !'
+}
+console.log ('Thanks')
 
 /* EXERCISE D
     Create a variable called me and assign to it an object containing the following information: name = your name, surname = your surname, age = your age.
